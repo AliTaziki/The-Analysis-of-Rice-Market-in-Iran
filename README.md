@@ -1,1 +1,2 @@
 # The-Analysis-of-Rice-Market-in-Iran
+This project is related to "Microeconomics" course.In this project,we determined the most effective factors which impress rice supply and demand in Iran market.In This project we found that the amount of rainfall in north of iran and the inflation rate affects massively on the rice exports and imports in Iran and therefore affects equilibrium point .we also determined the substitutes of rice in Iran market.
